@@ -1,9 +1,9 @@
 # Hi, I'm Chidimma 
 
-Sales & Customer Retention Specialist building technical range in cloud computing — currently focused on **AWS, cloud security, and DevOps**.
+Sales & Customer Retention Specialist building technical range in cloud computing currently focused on **AWS, cloud security, and DevOps**.
 
 ## About Me
-- 4+ years in fintech and microfinance sales, retention, and loan recovery
+- 4+ years in fintech and microfinance, sales, retention, and loan recovery
 - Transitioning technical skills alongside a strong outbound sales background
 - CRM/sales tools: HubSpot, Salesforce, Apollo.io, Zendesk
 
