@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chidimma 
 
-<!--
-**chidimma-cloud1/chidimma-cloud1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sales & Customer Retention Specialist building technical range in cloud computing — currently focused on **AWS, cloud security, and DevOps**.
 
-Here are some ideas to get you started:
+## About Me
+- 4+ years in fintech and microfinance sales, retention, and loan recovery
+- Transitioning technical skills alongside a strong outbound sales background
+- CRM/sales tools: HubSpot, Salesforce, Apollo.io, Zendesk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- **AWS Cloud Fundamentals**
+- **Cloud Security** — principles, best practices
+- **DevOps** — tooling and workflows
+- AI automation (Zapier workflows)
+
+##  What You'll Find in This Profile
+- Notes and mini-projects from my cloud learning journey
+- Progress logs as I build hands-on AWS, security, and DevOps skills
+
+##  Reach Me
+- https://www.linkedin.com/in/chidimma-okpala-a6220438b
